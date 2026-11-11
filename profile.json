@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "login": "Celine1337",
+  "seed": "#FF5CA8",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [
+    "about"
+  ],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "celine1337",
+    "subtitle": "Developer • UI/UX & Web Design. Building custom tools & Windows utilities.",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "ХМ / Ukraine"
+      },
+      {
+        "icon": "code",
+        "label": "Core : Python · Java · C++ Main "
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "code",
+        "label": "Mostly frontend,a bit of backend"
+      },
+      {
+        "icon": "palette",
+        "label": "Web, frontend and UI & UX design"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "coffee",
+            "label": "Java"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:cplusplusbuilder",
+            "label": "C++"
+          },
+          {
+            "icon": "brand:rust",
+            "label": "Rust"
+          },
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:jetbrains",
+            "label": "JetBrains IDEs"
+          },
+          {
+            "icon": "brand:gradle",
+            "label": "Gradle"
+          },
+          {
+            "icon": "brand:apachemaven",
+            "label": "Maven"
+          },
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "Github Actions"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/celinejvm"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/3ty0"
+      },
+      {
+        "icon": "brand:soundcloud",
+        "url": "https://soundcloud.com/itzceline1337"
+      },
+      {
+        "icon": "brand:github",
+        "url": "https://github.com/Celine1337"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": []
+  }
+}

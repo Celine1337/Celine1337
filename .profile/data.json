@@ -1,8 +1,8 @@
 {
- "key": "8cde047f",
+ "key": "d3685e86",
  "stars": 0,
- "contributions": 80,
- "repos": 29,
+ "contributions": 118,
+ "repos": 42,
  "followers": 2,
  "languages": [
   [
@@ -136,7 +136,7 @@
     "today": false
    },
    {
-    "c": 22,
+    "c": 60,
     "day": 13,
     "today": true
    },
@@ -184,84 +184,139 @@
    ]
   },
   {
-   "name": "csvpeek",
-   "url": "https://github.com/Celine1337/csvpeek",
-   "text": "Single-file stdlib CLI profiling CSV (heuristic types, nulls, numeric stats, top values, sample rows) plus CSV<->JSON conversion. Python 3.9+, no dependencies.",
+   "name": "wkill",
+   "url": "https://github.com/Celine1337/wkill",
+   "text": "xkill for GNOME Wayland: kill the focused window by hotkey or pick one interactively. Zero-dep Rust CLI + tiny bridge extension, keeps your existing xkill keybinding.",
    "fork": false,
    "stars": 0,
-   "language": "Python",
-   "topics": [
-    "cli",
-    "converter",
-    "csv",
-    "data-quality",
-    "json",
-    "profiling",
-    "python",
-    "stdlib"
-   ]
-  },
-  {
-   "name": "envdiff",
-   "url": "https://github.com/Celine1337/envdiff",
-   "text": "Single-file stdlib CLI comparing two .env files for configuration drift (missing/extra/changed) with secret masking, --ignore and --json. Python 3.9+, no dependencies.",
-   "fork": false,
-   "stars": 0,
-   "language": "Python",
-   "topics": [
-    "ci",
-    "cli",
-    "configuration",
-    "devops",
-    "diff",
-    "dotenv",
-    "drift",
-    "env",
-    "python",
-    "stdlib"
-   ]
-  },
-  {
-   "name": "jsonpatch",
-   "url": "https://github.com/Celine1337/jsonpatch",
-   "text": "Single-file stdlib RFC 6902 JSON Patch CLI: apply add/remove/replace/move/copy/test and recursive diff with guaranteed roundtrip; RFC 6901 pointers. Python 3.9+.",
-   "fork": false,
-   "stars": 0,
-   "language": "Python",
-   "topics": [
-    "cli",
-    "diff",
-    "json",
-    "json-patch",
-    "json-pointer",
-    "python",
-    "rfc6901",
-    "rfc6902",
-    "stdlib-only"
-   ]
-  },
-  {
-   "name": "cronexpr",
-   "url": "https://github.com/Celine1337/cronexpr",
-   "text": "Single-file stdlib CLI that explains, validates and previews next run times of standard 5-field cron (lists/ranges/steps, month/weekday names, Vixie OR day semantics). Python 3.9+.",
-   "fork": false,
-   "stars": 0,
-   "language": "Python",
-   "topics": [
-    "cli",
-    "cron",
-    "cron-expression",
-    "crontab",
-    "datetime",
-    "explain",
-    "python",
-    "scheduler",
-    "stdlib",
-    "validator"
-   ]
+   "language": "Rust",
+   "topics": []
   }
  ],
  "all": [
+  {
+   "name": "bqn-hist",
+   "url": "https://github.com/Celine1337/bqn-hist",
+   "text": "Word-frequency histogram in BQN — top-N words with deterministic tie-break",
+   "fork": false,
+   "stars": 0,
+   "language": "BQN",
+   "topics": []
+  },
+  {
+   "name": "uiua-rows",
+   "url": "https://github.com/Celine1337/uiua-rows",
+   "text": "Numeric column statistics (count/sum/mean/min/max) in Uiua, a stack-based array language",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "janet-toml",
+   "url": "https://github.com/Celine1337/janet-toml",
+   "text": "Dependency-free TOML subset validator in Janet — exact line-number errors for CI/pre-commit",
+   "fork": false,
+   "stars": 0,
+   "language": "Janet",
+   "topics": []
+  },
+  {
+   "name": "coconut-envdiff",
+   "url": "https://github.com/Celine1337/coconut-envdiff",
+   "text": "Diff two .env files by key without leaking secret values, written in Coconut. CI-ready exit codes, zero deps.",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "hy-todo",
+   "url": "https://github.com/Celine1337/hy-todo",
+   "text": "Comment-aware TODO/FIXME/XXX/HACK scanner for source trees, written in Hy. Text + JSON output, zero deps.",
+   "fork": false,
+   "stars": 0,
+   "language": "Hy",
+   "topics": []
+  },
+  {
+   "name": "d-jsonpatch",
+   "url": "https://github.com/Celine1337/d-jsonpatch",
+   "text": "Apply RFC 6902 JSON Patch (add/remove/replace/move/copy/test) in D. Deterministic output.",
+   "fork": false,
+   "stars": 0,
+   "language": "D",
+   "topics": []
+  },
+  {
+   "name": "odin-bytes",
+   "url": "https://github.com/Celine1337/odin-bytes",
+   "text": "Parse and format byte sizes (IEC binary + SI decimal) in Odin. Zero deps.",
+   "fork": false,
+   "stars": 0,
+   "language": "Odin",
+   "topics": []
+  },
+  {
+   "name": "ccl-uuid",
+   "url": "https://github.com/Celine1337/ccl-uuid",
+   "text": "UUIDv4 + time-ordered UUIDv7 generator and validator in Common Lisp (CCL) — RFC 9562, zero dependencies",
+   "fork": false,
+   "stars": 0,
+   "language": "Common Lisp",
+   "topics": []
+  },
+  {
+   "name": "v-semver",
+   "url": "https://github.com/Celine1337/v-semver",
+   "text": "SemVer 2.0.0 compare/bump/validate CLI in V — spec-exact precedence, build metadata ignored, big-number safe",
+   "fork": false,
+   "stars": 0,
+   "language": "V",
+   "topics": []
+  },
+  {
+   "name": "cr-cron",
+   "url": "https://github.com/Celine1337/cr-cron",
+   "text": "Cron next-run calculator in Crystal — 5-field expressions, steps, ranges, lists, dom/dow OR rule, ISO8601 UTC output",
+   "fork": false,
+   "stars": 0,
+   "language": "Crystal",
+   "topics": []
+  },
+  {
+   "name": "nim-dotenv",
+   "url": "https://github.com/Celine1337/nim-dotenv",
+   "text": "Lint .env files: duplicate keys, malformed lines, invalid keys, unquoted spaces. Nim, zero deps.",
+   "fork": false,
+   "stars": 0,
+   "language": "Nim",
+   "topics": [
+    "cli",
+    "configuration",
+    "dotenv",
+    "linter",
+    "nim"
+   ]
+  },
+  {
+   "name": "factor-b64",
+   "url": "https://github.com/Celine1337/factor-b64",
+   "text": "Base64 encode/decode CLI in Factor, a concatenative language — RFC 4648 tested",
+   "fork": false,
+   "stars": 0,
+   "language": "Factor",
+   "topics": []
+  },
+  {
+   "name": "tcl-ini",
+   "url": "https://github.com/Celine1337/tcl-ini",
+   "text": "Lint and query INI files from the shell — pure Tcl, zero dependencies",
+   "fork": false,
+   "stars": 0,
+   "language": "Tcl",
+   "topics": []
+  },
   {
    "name": "wkill",
    "url": "https://github.com/Celine1337/wkill",

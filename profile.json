@@ -106,8 +106,13 @@
     ]
   },
   "projects": {
-    "source": "pinned",
-    "repos": [],
+    "source": "manual",
+    "repos": [
+      "wkill",
+      "module-audit",
+      "spi-wire",
+      "iptables-save"
+    ],
     "overrides": {},
     "empty": "No description yet.",
     "fork": "Fork"

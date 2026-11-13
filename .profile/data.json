@@ -1,0 +1,721 @@
+{
+ "key": "3d646036",
+ "stars": 0,
+ "contributions": 78,
+ "repos": 29,
+ "followers": 2,
+ "languages": [
+  [
+   "Java",
+   82382111
+  ],
+  [
+   "C++",
+   43698923
+  ],
+  [
+   "C",
+   21340912
+  ],
+  [
+   "Assembly",
+   5903832
+  ],
+  [
+   "Swift",
+   3397192
+  ],
+  [
+   "HTML",
+   3135314
+  ],
+  [
+   "TypeScript",
+   2137445
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 28,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 29,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 20,
+    "day": 13,
+    "today": true
+   },
+   null
+  ]
+ ],
+ "streak": {
+  "current": 3,
+  "longest": 3
+ },
+ "pins": [
+  {
+   "name": "spark-mini",
+   "url": "https://github.com/Celine1337/spark-mini",
+   "text": "Spark Mini - local code & writing assistant over open-weight models (default Qwen2.5-Coder). Stdlib CLI, repo RAG-lite context, optional LoRA/QLoRA fine-tune pipeline; mock backend for offline demos. No trained weights included.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "ai",
+    "assistant",
+    "cli",
+    "code-assistant",
+    "fine-tuning",
+    "llm",
+    "local-first",
+    "lora",
+    "ollama",
+    "open-weights"
+   ]
+  },
+  {
+   "name": "vibegram",
+   "url": "https://github.com/Celine1337/vibegram",
+   "text": "VibeGram — Telegram Android fork (arm64-v8a APK via CI)",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": [
+    "android",
+    "apk",
+    "fork",
+    "telegram",
+    "vibegram"
+   ]
+  },
+  {
+   "name": "csvpeek",
+   "url": "https://github.com/Celine1337/csvpeek",
+   "text": "Single-file stdlib CLI profiling CSV (heuristic types, nulls, numeric stats, top values, sample rows) plus CSV<->JSON conversion. Python 3.9+, no dependencies.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "cli",
+    "converter",
+    "csv",
+    "data-quality",
+    "json",
+    "profiling",
+    "python",
+    "stdlib"
+   ]
+  },
+  {
+   "name": "envdiff",
+   "url": "https://github.com/Celine1337/envdiff",
+   "text": "Single-file stdlib CLI comparing two .env files for configuration drift (missing/extra/changed) with secret masking, --ignore and --json. Python 3.9+, no dependencies.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "ci",
+    "cli",
+    "configuration",
+    "devops",
+    "diff",
+    "dotenv",
+    "drift",
+    "env",
+    "python",
+    "stdlib"
+   ]
+  },
+  {
+   "name": "jsonpatch",
+   "url": "https://github.com/Celine1337/jsonpatch",
+   "text": "Single-file stdlib RFC 6902 JSON Patch CLI: apply add/remove/replace/move/copy/test and recursive diff with guaranteed roundtrip; RFC 6901 pointers. Python 3.9+.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "cli",
+    "diff",
+    "json",
+    "json-patch",
+    "json-pointer",
+    "python",
+    "rfc6901",
+    "rfc6902",
+    "stdlib-only"
+   ]
+  },
+  {
+   "name": "cronexpr",
+   "url": "https://github.com/Celine1337/cronexpr",
+   "text": "Single-file stdlib CLI that explains, validates and previews next run times of standard 5-field cron (lists/ranges/steps, month/weekday names, Vixie OR day semantics). Python 3.9+.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "cli",
+    "cron",
+    "cron-expression",
+    "crontab",
+    "datetime",
+    "explain",
+    "python",
+    "scheduler",
+    "stdlib",
+    "validator"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "name": "wkill",
+   "url": "https://github.com/Celine1337/wkill",
+   "text": "xkill for GNOME Wayland: kill the focused window by hotkey or pick one interactively. Zero-dep Rust CLI + tiny bridge extension, keeps your existing xkill keybinding.",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "module-audit",
+   "url": "https://github.com/Celine1337/module-audit",
+   "text": "Static auditor for JPMS module paths: split packages, requires cycles, stale descriptors, provider drift — keeps auditing artifacts the JDK refuses to read. Zero deps, JDK 17+.",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "spi-wire",
+   "url": "https://github.com/Celine1337/spi-wire",
+   "text": "Audit Java ServiceLoader wiring: verify META-INF/services providers, catch shade/merge loss and module-info drift before runtime ServiceConfigurationError. Zero dependencies.",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "iptables-save",
+   "url": "https://github.com/Celine1337/iptables-save",
+   "text": "Parse and validate iptables-save(8) dumps: tables, chains, rules and jumps as structured data, with semantic checks. Zero dependencies, no root.",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "udev-rules",
+   "url": "https://github.com/Celine1337/udev-rules",
+   "text": "Parse and lint udev(7) rules files: structured tokens plus semantic checks (GOTO/LABEL, operator/key compatibility, octal MODE). Zero dependencies.",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "har-delta",
+   "url": "https://github.com/Celine1337/har-delta",
+   "text": "Semantic diff of two HAR 1.2 captures: added/removed requests, status, size, timing and header changes. Zero dependencies.",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "zonelint",
+   "url": "https://github.com/Celine1337/zonelint",
+   "text": "Semantic linter for RFC 1035 DNS master files — named-checkzone style checks without BIND. Zero dependencies.",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "oncalendar",
+   "url": "https://github.com/Celine1337/oncalendar",
+   "text": "systemd.time(7) OnCalendar= calendar events for Rust: parse, normalize, iterate — parity-tested against systemd-analyze",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "vibegram",
+   "url": "https://github.com/Celine1337/vibegram",
+   "text": "VibeGram — Telegram Android fork (arm64-v8a APK via CI)",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": [
+    "android",
+    "apk",
+    "fork",
+    "telegram",
+    "vibegram"
+   ]
+  },
+  {
+   "name": "urlkit",
+   "url": "https://github.com/Celine1337/urlkit",
+   "text": "Single-file stdlib URL toolbox on urllib.parse: parse / normalize / build / query with JSON output, RFC 3986 dot-segment resolution. Python 3.9+, offline.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "cli",
+    "developer-tools",
+    "offline",
+    "python",
+    "query-string",
+    "stdlib-only",
+    "url",
+    "url-normalization",
+    "url-parser",
+    "urllib-parse"
+   ]
+  },
+  {
+   "name": "imgmeta",
+   "url": "https://github.com/Celine1337/imgmeta",
+   "text": "Single-file stdlib CLI reading PNG/JPEG/GIF/BMP/WebP header metadata (format, dimensions, bit depth) without decoding pixels. Python 3.9+, no Pillow, no dependencies.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "bmp",
+    "cli",
+    "gif",
+    "header-parser",
+    "image",
+    "jpeg",
+    "metadata",
+    "png",
+    "python",
+    "stdlib"
+   ]
+  },
+  {
+   "name": "epoch",
+   "url": "https://github.com/Celine1337/epoch",
+   "text": "Single-file stdlib CLI converting unix timestamps <-> ISO-8601 dates (fixed offsets) and durations <-> seconds. Python 3.9+, offline, no dependencies.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "cli",
+    "date-converter",
+    "duration",
+    "epoch",
+    "iso8601",
+    "offline",
+    "python",
+    "stdlib",
+    "unix-timestamp"
+   ]
+  },
+  {
+   "name": "cronexpr",
+   "url": "https://github.com/Celine1337/cronexpr",
+   "text": "Single-file stdlib CLI that explains, validates and previews next run times of standard 5-field cron (lists/ranges/steps, month/weekday names, Vixie OR day semantics). Python 3.9+.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "cli",
+    "cron",
+    "cron-expression",
+    "crontab",
+    "datetime",
+    "explain",
+    "python",
+    "scheduler",
+    "stdlib",
+    "validator"
+   ]
+  },
+  {
+   "name": "jsonpatch",
+   "url": "https://github.com/Celine1337/jsonpatch",
+   "text": "Single-file stdlib RFC 6902 JSON Patch CLI: apply add/remove/replace/move/copy/test and recursive diff with guaranteed roundtrip; RFC 6901 pointers. Python 3.9+.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "cli",
+    "diff",
+    "json",
+    "json-patch",
+    "json-pointer",
+    "python",
+    "rfc6901",
+    "rfc6902",
+    "stdlib-only"
+   ]
+  },
+  {
+   "name": "csvpeek",
+   "url": "https://github.com/Celine1337/csvpeek",
+   "text": "Single-file stdlib CLI profiling CSV (heuristic types, nulls, numeric stats, top values, sample rows) plus CSV<->JSON conversion. Python 3.9+, no dependencies.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "cli",
+    "converter",
+    "csv",
+    "data-quality",
+    "json",
+    "profiling",
+    "python",
+    "stdlib"
+   ]
+  },
+  {
+   "name": "passgen",
+   "url": "https://github.com/Celine1337/passgen",
+   "text": "Single-file stdlib CLI generating CSPRNG (secrets) passwords and word passphrases with per-class guarantees, entropy estimates and --json. Python 3.9+, offline, no dependencies.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "cli",
+    "csprng",
+    "entropy",
+    "offline",
+    "passphrase",
+    "password-generator",
+    "python",
+    "secrets",
+    "security",
+    "stdlib"
+   ]
+  },
+  {
+   "name": "hashdir",
+   "url": "https://github.com/Celine1337/hashdir",
+   "text": "Single-file stdlib CLI that snapshots directories into sorted SHA-256/size JSON manifests and verifies drift (added/removed/changed). Python 3.9+, no dependencies.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "checksum",
+    "cli",
+    "directory",
+    "drift-detection",
+    "integrity",
+    "manifest",
+    "python",
+    "sha256",
+    "stdlib",
+    "verification"
+   ]
+  },
+  {
+   "name": "envdiff",
+   "url": "https://github.com/Celine1337/envdiff",
+   "text": "Single-file stdlib CLI comparing two .env files for configuration drift (missing/extra/changed) with secret masking, --ignore and --json. Python 3.9+, no dependencies.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "ci",
+    "cli",
+    "configuration",
+    "devops",
+    "diff",
+    "dotenv",
+    "drift",
+    "env",
+    "python",
+    "stdlib"
+   ]
+  },
+  {
+   "name": "spark-mini",
+   "url": "https://github.com/Celine1337/spark-mini",
+   "text": "Spark Mini - local code & writing assistant over open-weight models (default Qwen2.5-Coder). Stdlib CLI, repo RAG-lite context, optional LoRA/QLoRA fine-tune pipeline; mock backend for offline demos. No trained weights included.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "ai",
+    "assistant",
+    "cli",
+    "code-assistant",
+    "fine-tuning",
+    "llm",
+    "local-first",
+    "lora",
+    "ollama",
+    "open-weights"
+   ]
+  },
+  {
+   "name": "advlint",
+   "url": "https://github.com/Celine1337/advlint",
+   "text": "Validator for Minecraft datapack advancement JSON - criteria/triggers, requirements wiring, parent cycles, display and rewards. Single-file Python.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "advancements",
+    "cli",
+    "datapack",
+    "linter",
+    "minecraft",
+    "python",
+    "validator"
+   ]
+  },
+  {
+   "name": "loottable-lint",
+   "url": "https://github.com/Celine1337/loottable-lint",
+   "text": "Validator for Minecraft datapack loot table JSON - pools/rolls, entry types and names, weights, conditions and functions with ranges. Single-file Python.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "cli",
+    "datapack",
+    "linter",
+    "loot-tables",
+    "minecraft",
+    "python",
+    "validator"
+   ]
+  },
+  {
+   "name": "recipelint",
+   "url": "https://github.com/Celine1337/recipelint",
+   "text": "Validator for Minecraft datapack recipe JSON - shaped patterns/keys, shapeless ingredients, cooking/stonecutting/smithing fields, result ids and counts. Single-file Python.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "cli",
+    "datapack",
+    "linter",
+    "minecraft",
+    "python",
+    "recipes",
+    "validator"
+   ]
+  },
+  {
+   "name": "modtoml-lint",
+   "url": "https://github.com/Celine1337/modtoml-lint",
+   "text": "Validator for Forge/NeoForge mods.toml - modLoader/loaderVersion/license, [[mods]] entries, [[dependencies]] blocks. Single-file Python with its own TOML-subset parser.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "cli",
+    "forge",
+    "linter",
+    "minecraft",
+    "neoforge",
+    "python",
+    "validator",
+    "mods-toml"
+   ]
+  },
+  {
+   "name": "fmjlint",
+   "url": "https://github.com/Celine1337/fmjlint",
+   "text": "Validator for Fabric fabric.mod.json - schema, mod id, entrypoints, dependency ranges, jar entrypoint classes. Single-file Python, stdlib only.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "cli",
+    "fabric",
+    "fabricmc",
+    "linter",
+    "minecraft",
+    "python",
+    "validator",
+    "mod-metadata"
+   ]
+  },
+  {
+   "name": "bukkitlint",
+   "url": "https://github.com/Celine1337/bukkitlint",
+   "text": "Validator for Bukkit/Spigot/Paper plugin.yml and paper-plugin.yml - required keys, main class in jar, dependency cycles, commands/permissions. Single-file Python with its own YAML-subset parser.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "bukkit",
+    "cli",
+    "linter",
+    "minecraft",
+    "paper",
+    "plugin-yml",
+    "python",
+    "spigot",
+    "validator"
+   ]
+  },
+  {
+   "name": "mixinlint",
+   "url": "https://github.com/Celine1337/mixinlint",
+   "text": "Static consistency linter for SpongePowered Mixin sources - catches CallbackInfo/cancellable/@Redirect/@Overwrite mistakes and broken mixin configs before runtime. Single-file Python, stdlib only.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "cli",
+    "fabric",
+    "forge",
+    "linter",
+    "minecraft",
+    "mixin",
+    "python",
+    "spongepowered",
+    "static-analysis"
+   ]
+  },
+  {
+   "name": "dpgraph",
+   "url": "https://github.com/Celine1337/dpgraph",
+   "text": "Static call-graph auditor for Minecraft datapacks: missing targets, dead functions and call cycles from .mcfunction sources. Stdlib-only Python CLI.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "call-graph",
+    "cli",
+    "datapack",
+    "linter",
+    "mcfunction",
+    "minecraft",
+    "python",
+    "static-analysis"
+   ]
+  },
+  {
+   "name": "mixin-stubber",
+   "url": "https://github.com/Celine1337/mixin-stubber",
+   "text": "Auto-Mixin stub generator for Minecraft (Fabric/Forge): paste a vanilla method signature, get a ready @Mixin class with @Inject/@Redirect, @At and CallbackInfo(Returnable).",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "cli",
+    "codegen",
+    "fabric",
+    "forge",
+    "java",
+    "minecraft",
+    "mixin",
+    "modding",
+    "python",
+    "spongepowered"
+   ]
+  },
+  {
+   "name": "Celine1337",
+   "url": "https://github.com/Celine1337/Celine1337",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}

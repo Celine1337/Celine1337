@@ -1,5 +1,5 @@
 {
- "key": "282efac6",
+ "key": "f241dc70",
  "stars": 0,
  "contributions": 152,
  "repos": 53,
@@ -133,9 +133,13 @@
    {
     "c": 0,
     "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
     "today": true
    },
-   null,
    null
   ]
  ],
